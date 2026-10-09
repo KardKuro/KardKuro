@@ -31,7 +31,7 @@
 <text x='150' y='130' fill='#e6edf3' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.24754;0.24809;1'/>x</text>
 <text x='158.4' y='130' fill='#e6edf3' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.25237;0.25292;1'/>t</text>
 <text y='152' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.27819;0.27874;1'/><tspan x='24 38 52 66 80 94 108 122 136' fill='#a8b1bb'>独立开发者，全栈。</tspan></text>
-<text y='174' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.28149;0.28204;1'/><tspan x='24 38 52 66 80 94 108 122 136 150 164 178 192 206 220 228.4 236.8 245.2 253.6 262 276 290' fill='#a8b1bb'>想要什么我说了算，代码是一群 LLM 写的。</tspan></text>
+<text y='174' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.28149;0.28204;1'/><tspan x='24 38 52 66 80 94 102.4 110.8 119.2 127.6 136 150 164' fill='#a8b1bb'>代码是一群 LLM 写的。</tspan></text>
 <text y='218' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.31228;0.31283;1'/><tspan x='24' fill='#39c5cf'>$</tspan></text>
 <text x='40.8' y='218' fill='#e6edf3' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.33702;0.33757;1'/>l</text>
 <text x='49.2' y='218' fill='#e6edf3' opacity='0'><animate attributeName='opacity' dur='18.19s' repeatCount='indefinite' values='0;0;1;1' keyTimes='0;0.34315;0.34370;1'/>s</text>
