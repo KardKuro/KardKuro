@@ -1,0 +1,30 @@
+{
+  "title": "kardkuro@grancyan: ~",
+  "width": 592,
+  "session": [
+    { "cmd": "whoami", "out": ["KardKuro · 黒卡卡"] },
+    {
+      "cmd": "cat ~/about.txt",
+      "out": [
+        "独立开发者，全栈。",
+        "想要什么我说了算，代码是一群 LLM 写的。"
+      ]
+    },
+    {
+      "cmd": "ls ~/projects",
+      "out": [
+        [["GranCyan         ", "key"], ["主力项目", "dim"]],
+        [["silent-failures  ", "key"], ["不报错的那类故障笔记", "dim"]],
+        [["grancyan-share   ", "key"], ["分享对话的只读查看页", "dim"]]
+      ]
+    },
+    { "cmd": "theme --get", "out": [[["dark", "accent"], ["  # 一直都是", "dim"]]] },
+    {
+      "cmd": "ls -l ~/links",
+      "out": [
+        [["lrwxr-xr-x  ", "dim"], ["GitHub  ", "key"], ["-> ", "dim"], ["https://github.com/KardKuro", "link"]]
+      ]
+    },
+    { "cmd": "" }
+  ]
+}
